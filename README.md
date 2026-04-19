@@ -38,18 +38,16 @@ This project builds a **Poll Results Visualizer** that:
 
 ## ⚙️ Features
 
-```
-✔ Synthetic dataset generation (500+ responses)
-✔ Data cleaning and preprocessing
-✔ Vote share analysis (counts & percentages)
-✔ Region-wise comparison
-✔ Trend analysis over time
-✔ Interactive filters (Region, Age Group)
-✔ KPI metrics (Top choice, % share)
-✔ Insights generation
-✔ Download filtered data option
-✔ Interactive Streamlit dashboard
-```
+* Synthetic dataset generation (500+ responses)
+* Data cleaning and preprocessing
+* Vote share analysis (counts & percentages)
+* Region-wise comparison
+* Trend analysis over time
+* Interactive filters (Region, Age Group)
+* KPI metrics (Top choice, % share)
+* Insights generation
+* Download filtered data option
+* Interactive Streamlit dashboard
 
 ---
 

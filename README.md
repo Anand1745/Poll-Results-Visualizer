@@ -38,6 +38,7 @@ This project builds a **Poll Results Visualizer** that:
 
 ## ⚙️ Features
 
+```
 ✔ Synthetic dataset generation (500+ responses)
 ✔ Data cleaning and preprocessing
 ✔ Vote share analysis (counts & percentages)
@@ -48,6 +49,7 @@ This project builds a **Poll Results Visualizer** that:
 ✔ Insights generation
 ✔ Download filtered data option
 ✔ Interactive Streamlit dashboard
+```
 
 ---
 
@@ -63,6 +65,7 @@ This project builds a **Poll Results Visualizer** that:
 
 ## 📂 Project Structure
 
+```
 Poll-Results-Visualizer/
 │
 ├── data/
@@ -72,6 +75,7 @@ Poll-Results-Visualizer/
 ├── dashboard.py
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
